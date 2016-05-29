@@ -17,4 +17,6 @@ modify remote url.test ailin.Fail.
 
 on new remote url.modify email.test ailin.Ok.
 
-usaul Clone.not modify everything.test ailin.
+usaul Clone.not modify everything.test ailin.Ok.
+
+change email.test bbNite.
