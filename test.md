@@ -15,4 +15,6 @@ only modify user.email.test bbNite.okay.
 
 modify remote url.test ailin.Fail.
 
-on new remote url.modify email.test ailin.
+on new remote url.modify email.test ailin.Ok.
+
+usaul Clone.not modify everything.test ailin.
