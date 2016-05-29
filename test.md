@@ -4,3 +4,4 @@ test again bbNite.Failed.
 test bbNite.
 test bbNite again.Finally ok.
 modify user.name and user.email.test ailin.
+only modify user.email.test bbNite.
