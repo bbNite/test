@@ -19,4 +19,6 @@ on new remote url.modify email.test ailin.Ok.
 
 usaul Clone.not modify everything.test ailin.Ok.
 
-change email.test bbNite.
+change email.test bbNite.Ok.
+
+Finally!!! email is most important!
